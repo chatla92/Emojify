@@ -12,15 +12,15 @@ We calculate the maximim words in sentence and provide embeddings of these words
 
 ### Results
 
-Training Accuracy = 100%
+Training Accuracy = 100%<br>
 Test Accuracy = 84%
 
 ### Samples outputs
 
-Expected emoji:😞 prediction: are you serious😞
-Expected emoji:⚾ prediction: Let us go play baseball	⚾
-Expected emoji:😞 prediction: This stupid grader is not working 	😞
-Expected emoji:😄 prediction: Congratulation for having a baby	😄
-Expected emoji:😞 prediction: stop pissing me off😞
-Expected emoji:❤️ prediction: I love taking breaks	❤️
-Expected emoji:🍴 prediction: I boiled rice	🍴
+Expected emoji:😞 prediction: are you serious😞<br>
+Expected emoji:⚾ prediction: Let us go play baseball	⚾<br>
+Expected emoji:😞 prediction: This stupid grader is not working 	😞<br>
+Expected emoji:😄 prediction: Congratulation for having a baby	😄<br>
+Expected emoji:😞 prediction: stop pissing me off😞<br>
+Expected emoji:❤️ prediction: I love taking breaks	❤️<br>
+Expected emoji:🍴 prediction: I boiled rice	🍴<br>
